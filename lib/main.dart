@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
       appBar: AppBar(
         title: Text('flutter demo'),
       ),
-      body: Text('Hello world!!!'),
+      body: Text('Hello world!'),
     );
   }
 }
